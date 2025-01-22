@@ -1,0 +1,24 @@
+#map {
+  width: 90%;
+  height: 20rem;
+  border: 1px solid #ccc;
+  margin: 2rem auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+input {
+  padding: 0.5rem;
+  margin-right: 1rem;
+}
+
+button {
+  padding: 0.5rem;
+}
